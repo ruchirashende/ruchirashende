@@ -1,6 +1,6 @@
 # Hi, I'm Ruchira Shende 👋
 
-🎯 Aspiring Product Manager  
+🎯 Product Manager  
 🤖 Interested in AI-driven products and data-informed decision making  
 🌱 Learning product thinking, user discovery, and how modern tech systems work  
 
