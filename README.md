@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ruchira Shende 👋
 
-<!--
-**ruchirashende/ruchirashende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Product Manager  
+🤖 Interested in AI-driven products and data-informed decision making  
+🌱 Learning product thinking, user discovery, and how modern tech systems work  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Focused on understanding **user problems** and translating them into clear product ideas  
+- Comfortable collaborating with engineers using a solid technical foundation  
+- Curious about how **AI and data** can improve product experiences and decisions  
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/ruchirashende/  
+- Email: ruchirashende.1121@gmail.com
